@@ -5,6 +5,7 @@
 ## 目录
 
 - `hermes-agent/`: Hermes Agent 学习笔记
+- `claude-code/`: Claude Code 学习笔记
 
 ## 使用方式
 
